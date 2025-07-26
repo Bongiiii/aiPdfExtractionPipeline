@@ -4,7 +4,7 @@ Created on Wed Jul  2 16:54:26 2025
 
 @author: bongi
 
-Lido-Style PDF Table Extractor
+Lido inspired PDF Table Extractor
 Extract specific columns from PDFs like Lido does
 """
 
